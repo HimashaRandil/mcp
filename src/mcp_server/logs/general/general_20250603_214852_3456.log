@@ -1,0 +1,2 @@
+2025-06-03 21:48:52 | INFO     | src.utils.logger.logging_manager:__init__:66 - General logger initialized
+2025-06-03 21:48:52 | INFO     | src.utils.logger.logging_manager:__init__:67 - Logging to file: logs/general\general_20250603_214852_3456.log
