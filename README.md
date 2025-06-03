@@ -194,9 +194,6 @@ The server includes extensive debug logging. Check the log files in `src/mcp_ser
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-[Add your license information here]
 
 ## Support
 
